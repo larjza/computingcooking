@@ -1,4 +1,4 @@
-# COMPUTING COOKBOOk
+# COMPUTING COOKBOOK
 
 ![Larisa shared a sketch with you](https://user-images.githubusercontent.com/93745157/140437329-e465fb60-be38-4c39-ba35-45454b9371fe.png)
 
@@ -41,11 +41,14 @@ Flip the page, sharpen your knives and start cooking.
 - 4 SPOONS OF OLIVE OIL  
 
 ### FIRST PHASE
-1. Firstly, place your cutting board to the right of the stove and make sure your working area is free of any distractions or other liquids.
-2. Then, place an onion
+1. Place your cutting board to the right of the stove and make sure your working area is free of any distractions or other liquids.
+2. Then, get two onions and make sure they are washed and dried. place the end of the largest onion on the stove top labelled as "5V" and the other end on cutting board column "+". Place the second onions end on stove top "GND" and the other end on the cutting board column with the "-" sign.
 
 ### SECOND PHASE
+Now we will begin adding in the rest of our ingredients as our pans are prepared.
 
+2. Wash and dry the 3 peppers and place each one on the cutting board. each should be placed on column "E" and have a rows space inbetween then. make sure that the larger end of each pepper is placed closest to the top of the board. (red pepper, red pepper, green pepper going downwards)
+3. Next we will take an onion and place one end on the row with the larger part of the first red pepper and the other end of the onion on the digital top labelled as "5".
 
 ### THIRD PHASE
 
