@@ -51,9 +51,14 @@ Now we will begin adding in the rest of our ingredients as our pans are prepared
 3. Next we will take an onion and place one end on the row with the larger part of the first red pepper and the other end of the onion on the digital top labelled as "5".
 4. Repeat this for all the peppers and place the second end of the onion on digital top 4 for the red one and digital top 3 for the green pepper.
 5. Now, take some olive oil and place it on the row with the smaller part of the pepper and trail it across the cutting board to the column with the "+" sign. this will help tone down some of the stronger flavors in this recipe.
-6. 
+6. For the fun part, we will be adding in the garlic clove to the center of our cutting board.
+7. similarily, you will need to add an onion from the row touching the top part of the clove to the column that has the "+" sign. Then, again, to tone down those spicy tones, add a trail of olive oil which leads from the bottom most part of the clove to the cutting board column with a "-" sign.
+8. Finally, we will be adding a touch of smokyness to the garlic by taking our last onion and connecting one end to the same row that the olive oil is on and the other end to digital top 2.
+
 
 ### THIRD PHASE
+10. Finally, add in your spaghetti interface seasoning and you are good to go. 
+11. In order to spice it up to your own taste, and see the magical creation come to life of course, add in as much of the garlic clove as you wish.
 
 
 
