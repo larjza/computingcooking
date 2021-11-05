@@ -63,5 +63,7 @@ Now we will begin adding in the rest of our ingredients as our pans are prepared
 
 
 
-
+Authors notes:
+Some recipes might take more time and multiple tries to master, but have no fear we are here!
+Join our commmunity of pro and young chefs in order to understand and develop these recipes at your own pace.
 
