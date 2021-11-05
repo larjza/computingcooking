@@ -49,6 +49,9 @@ Now we will begin adding in the rest of our ingredients as our pans are prepared
 
 2. Wash and dry the 3 peppers and place each one on the cutting board. each should be placed on column "E" and have a rows space inbetween then. make sure that the larger end of each pepper is placed closest to the top of the board. (red pepper, red pepper, green pepper going downwards)
 3. Next we will take an onion and place one end on the row with the larger part of the first red pepper and the other end of the onion on the digital top labelled as "5".
+4. Repeat this for all the peppers and place the second end of the onion on digital top 4 for the red one and digital top 3 for the green pepper.
+5. Now, take some olive oil and place it on the row with the smaller part of the pepper and trail it across the cutting board to the column with the "+" sign. this will help tone down some of the stronger flavors in this recipe.
+6. 
 
 ### THIRD PHASE
 
