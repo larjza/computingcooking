@@ -40,7 +40,14 @@ Flip the page, sharpen your knives and start cooking.
 - 1 CLOVE OF GARLIC  
 - 4 SPOONS OF OLIVE OIL  
 
+### FIRST PHASE
+1. Firstly, place your cutting board to the right of the stove and make sure your working area is free of any distractions or other liquids.
+2. Then, place an onion
 
+### SECOND PHASE
+
+
+### THIRD PHASE
 
 
 
