@@ -31,6 +31,9 @@ Flip the page, sharpen your knives and start cooking.
 
 ## 1. SPAGHETTI INTERFACE 
 
+![Larisa shared a sketch with you 3](https://user-images.githubusercontent.com/93745157/140454446-e726a187-059d-461c-98f7-409f71dfe4b5.png)
+
+
 #### INGREDIENTS NEEDED:  
 
 - 1 COOKING STOVE  
